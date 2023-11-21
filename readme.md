@@ -12,6 +12,7 @@ This repository contains projects about Blue Team / Defensive Security. This pro
 - <b>Virtualbox</b>
 
 <h2>Environments Used</h2>
+
 - <b>Windows 10 (21h2)</b> 
 - <b>Kali Linux (Attacker)</b> 
 - <b>Ubuntu 22.04 (Server)</b>
