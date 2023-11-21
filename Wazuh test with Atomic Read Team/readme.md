@@ -8,10 +8,12 @@ This project used to test, create attack scenarios on Windows servers and analyz
 <br/>
 
 <h2>Utilities Used</h2>
+
 - <b>Putty</b>
 - <b>Remote Desktop Connection</b>
 
 <h2>Environments Used</h2>
+
 - <b>Windows 10 (21h2)</b> 
 - <b>Kali Linux (2023.3)</b>
 
