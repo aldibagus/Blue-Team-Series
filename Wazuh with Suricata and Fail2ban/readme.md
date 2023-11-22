@@ -16,7 +16,7 @@ This project was used to show how integrates Suricata with Wazuh to detect SQL I
 
 - <b>Windows 10 (21H2)</b> 
 - <b>Kali Linux (2023.3)</b>
-- <b>Ubuntu Server (22.04)/b>
+- <b>Ubuntu Server (22.04)</b>
 
 <h2>Credits</h2>
 <a href="https://google.com">Google</a>
